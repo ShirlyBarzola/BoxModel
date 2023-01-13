@@ -4,4 +4,4 @@
 ## Descripción
 ## Funcionalidad
 
-* [link](https://shirlybarzola.github.io/BoxModel/)
+## [Link del proyecto](https://shirlybarzola.github.io/BoxModel/)
